@@ -23,18 +23,6 @@ A Streamlit-based web application for managing product inventory, categories, su
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Configure the database**:
-    -   Ensure you have MySQL installed and running.
-    -   Create a database named `product_stock_management`.
-    -   Import your schema (tables: `Categories`, `Product`, `Supplier`, `Inventory`) if not already present.
-    -   Create a `.env` file in the root directory with your database credentials (see `.env.example` or below):
-
-    ```env
-    DB_HOST=localhost
-    DB_USER=root
-    DB_PASSWORD=your_password
-    DB_NAME=product_stock_management
-    ```
 
 ## Usage
 
