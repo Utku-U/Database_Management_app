@@ -1,3 +1,4 @@
 from click import option
 import mysql.connector 
 import streamlit as st
+python-dotenv
