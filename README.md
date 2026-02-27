@@ -4,10 +4,13 @@ In this project, a web application has been developed using Python and Streamlit
 
 The goal of this application is to enable the processing of all data in the database through a simple interface, without requiring any SQL knowledge.
 
-
 # Product Stock Management System
 
 A Streamlit-based web application for managing product inventory, categories, suppliers, and stock levels using a MySQL database.
+
+`**For example**`
+<img width="1877" height="805" alt="image" src="https://github.com/user-attachments/assets/cf132fb5-e7d2-4739-9242-8f4931ccbd35" />
+
 
 ## Features
 
