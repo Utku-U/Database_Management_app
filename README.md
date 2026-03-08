@@ -13,7 +13,7 @@ A Streamlit-based web application for managing product inventory, categories, su
 <img width="1877" height="805" alt="image" src="https://github.com/user-attachments/assets/cf132fb5-e7d2-4739-9242-8f4931ccbd35" />
 
 
-## Features
+## Feature Tables
 
 - **Product Management**: Create, read, update, and delete products.
 - **Category Management**: Manage product categories.
