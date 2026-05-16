@@ -8,7 +8,7 @@ The goal of this application is to enable the processing of all data in the data
 
 A Streamlit-based web application for managing product inventory, categories, suppliers, and stock levels using a MySQL database.
 
-`### **For example**`
+`### **picture sample**`
 
 <img width="1877" height="805" alt="image" src="https://github.com/user-attachments/assets/cf132fb5-e7d2-4739-9242-8f4931ccbd35" />
 
